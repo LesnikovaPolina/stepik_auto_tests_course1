@@ -1,1 +1,8 @@
-# stepik_auto_tests_course1
+# stepik_auto_tests_course
+
+Домашние задания к курсу.
+
+## Содержание
+
+- `conftest.py` — фикстуры и параметр `--language` для запуска браузера
+- `test_items.py` — тест проверки кнопки добавления в корзину
